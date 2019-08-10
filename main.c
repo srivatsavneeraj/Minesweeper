@@ -1,5 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include<stdio.h>
 
 #define BEGINNER 0
 #define INTERMEDIATE 1
